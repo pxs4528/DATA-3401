@@ -1,4 +1,4 @@
-# DATA-3401
+# DATA-3401 FALL 2022
 1. Name: Parth Vijaykumar Sharma
 2. UTA Email Address: pxs4528@mavs.uta.edu
 3. UTA Student ID: 1001954528
